@@ -1,42 +1,23 @@
-# Frontend Development Projects
-
-Welcome to my frontend development portfolio! This repository contains projects I've built to practice and demonstrate my skills in frontend development.
-
-# About Me
-
-I'm learning and developing my skills in frontend development by building practical web applications and exploring modern web technologies.
-
-# Technologies
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-- React Router
-- Git & GitHub
-- REST APIs
-
-Technologies vary by project.
-
 # Projects
 
-## 1. Movie Explorer
+## 1. Personal Portfolio Website
 
-A movie discovery application built with React that uses an API to display movies and their details.
+A personal portfolio website built to showcase my frontend development skills, completed projects, and experience with modern web technologies.
 
 ### Technologies Used
 
-- React
+- HTML5
+- CSS3
 - JavaScript
-- CSS
-- REST API
+- React
 
 ### Features
 
-- Browse movies
-- View detailed movie information
-- Navigate between pages using React Router
-- Fetch data from an external API
+- Responsive user interface
+- Personal introduction and about section
+- Projects showcase
+- Contact information
+- Clean and user-friendly design
 
 ### Repository
 
