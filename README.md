@@ -1,46 +1,55 @@
-# Frontend Development Projects
+Frontend Development Projects
 
-Welcome to my frontend development portfolio! This repository contains projects I've built to practice
-and demonstrate my skills in frontend development.
+Welcome to my frontend development portfolio! This repository contains projects I've built to practice and demonstrate my skills in frontend development.
 
-# About me
+About Me
 
-I'm learning and developing my skills in frontend development by building practical web applications
-and exploring modern web technologies.
+I'm a frontend developer in progress, continuously improving my skills by building practical web applications and exploring modern web technologies.
 
-# Technologies
+Technologies
 
 HTML5
+
 CSS3
+
 JavaScript (ES6+)
+
 React
+
+React Router
+
 Git & GitHub
+
 REST APIs
 
-(Technologies vary by project.)
+Technologies vary by project.
 
-Game Explorer
+Projects
 
-# Projects
+1. Movie Explorer
 
-1) Game explorer.
+A movie discovery application built with React that uses an API to display movies and their details.
 
- A movie discovery application that uses an api to display movies and their details.
+Technologies: React, JavaScript, CSS, REST API
 
- Technologies: React, JavaScript, CSS, REST API.
+Features:
 
- Features:
+Browse movies
 
- Browse movies
- View detailed movie information
- Navigate between pages using React Router
- Fetch data from an external API
+View detailed movie information
 
- Repository: View Project
- Live Demo: View Demo
+Navigate between pages using React Router
 
-# ------------------------------
+Fetch data from an external API
 
-# contact
-Gmail: gvarjoworkspace@gmail.com
+Repository: View Project
+
+Live Demo: View Demo
+
+Contact
+
+Email: gvarjoworkspace@gmail.com
+
 GitHub: @gvarjo33
+
+Thanks for visiting my portfolio!
