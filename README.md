@@ -23,7 +23,7 @@ Game Explorer
 
 # Projects
 
- 1) Game explorer.
+1) Game explorer.
 
  A movie discovery application that uses an api to display movies and their details.
 
