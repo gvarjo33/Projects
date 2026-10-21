@@ -52,17 +52,3 @@ A personal portfolio website built to showcase my frontend development skills, c
 
 - **Email:** [gvarjoworkspace@gmail.com](mailto:gvarjoworkspace@gmail.com)
 - **GitHub:** [@gvarjo33](https://github.com/gvarjo33)
-
-
-### Repository
-
-[View Project](https://github.com/gvarjo33/Projects)
-
-### Live Demo
-
-[View Demo](ADD_LIVE_DEMO_LINK_HERE)
-
-# Contact
-
-- **Email:** [gvarjoworkspace@gmail.com](mailto:gvarjoworkspace@gmail.com)
-- **GitHub:** [@gvarjo33](https://github.com/gvarjo33)
