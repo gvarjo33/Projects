@@ -16,7 +16,6 @@ A personal portfolio website built to showcase my frontend development skills, c
 - Responsive user interface
 - Personal introduction and about section
 - Projects showcase
-- Contact information
 - Clean and user-friendly design
 
 ### Repository
