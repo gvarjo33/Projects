@@ -23,21 +23,21 @@ Game Explorer
 
 # Projects
 
-1) Game explorer.
+ 1) Game explorer.
 
-A movie discovery application that uses an api to display movies and their details.
+ A movie discovery application that uses an api to display movies and their details.
 
-Technologies: React, JavaScript, CSS, REST API.
+ Technologies: React, JavaScript, CSS, REST API.
 
-Features:
+ Features:
 
-Browse movies
-View detailed movie information
-Navigate between pages using React Router
-Fetch data from an external API
+ Browse movies
+ View detailed movie information
+ Navigate between pages using React Router
+ Fetch data from an external API
 
-Repository: View Project
-Live Demo: View Demo
+ Repository: View Project
+ Live Demo: View Demo
 
 # ------------------------------
 
