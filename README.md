@@ -42,7 +42,7 @@ A personal portfolio website built to showcase my frontend development skills, c
 
 ### Repository
 
-[View Project](ADD_PROJECT_LINK_HERE)
+[View Project](https://github.com/gvarjo33/Projects)
 
 ### Live Demo
 
